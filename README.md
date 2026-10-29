@@ -42,7 +42,7 @@ Connected natively to live Google Calendar API networks. This sub-agent cross-re
 Programmed with zero-tolerance emergency parameters. It constantly monitors for severe context triggers (e.g., *burst pipes, major gas leaks, heating failure in freezing weather*). When an emergency is detected, it bypasses regular scheduling, updates high-priority sheets, and fires out SMS alerts directly to the smart devices of on-call emergency technicians.
 
 ### 4. The Records & CRM Maintenance Agent
-Runs silently in the background. It structures chat history transcripts, strips duplicate formatting, maps raw parameters into clean rows, and pushes historical metrics into Google Sheets for management evaluation.
+Runs silently in the background. It structures chat history transcripts, strips duplicate formatting, maps raw parameters into clean rows, and pushes historical metrics into Google Sheets for management review.
 
 ---
 
