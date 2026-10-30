@@ -7,11 +7,11 @@ Backend Architecture & Advanced Workflow Automation Framework
 ---
 
 ## 📄 Full Project PDF Breakdown & Visual Assets
+* 📊 **[👉 Read the Complete System Documentation (PDF)](Meshflows_AI_Front_Desk_Case_Study.pdf)**  
+  *(Note: If GitHub's preview layout displays a loading error, simply click the **"Download raw file"** button on the next screen to open the case study directly.)*
+* 🎬 **[View Live Implementation Screenshots on Facebook](https://facebook.com)**  
+  *(Check out our active project feed on Facebook to see visual snapshots and interface screenshots of the live system design.)*
 
-• 📊 👉 Read the Complete System Documentation (PDF)
-(Click the link above to open and review our full end-to-end blueprint, project scope, and system features directly in your browser.)
-• 🎬 View Live Implementation Snapshots on Facebook
-(Check out our active project feed on Facebook to see visual snapshots and interface screenshots of the live system design.)
 
 ---
 
